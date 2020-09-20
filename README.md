@@ -19,3 +19,13 @@ A PowerShell based utility for the creation of malicious Office macro documents.
 1. Take a screenshot of the error
 1. Submit a github issue with the screenshot & debug log attached.
 1. Be patient. I'm one guy. :-)
+
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
